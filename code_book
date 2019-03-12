@@ -60,15 +60,6 @@ timeDomainBodyAccelerometerJerkMeanY
 timeDomainBodyAccelerometerJerkMeanZ
 Standard deviation of the time-domain body acceleration jerk (derivation of the acceleration in time) in the X, Y and Z directions:
 
-timeDomainBodyAccelerometerJerkStandardDeviationX
-timeDomainBodyAccelerometerJerkStandardDeviationY
-timeDomainBodyAccelerometerJerkStandardDeviationZ
-Average time-domain body angular velocity in the X, Y and Z directions:
-
-timeDomainBodyGyroscopeMeanX
-timeDomainBodyGyroscopeMeanY
-timeDomainBodyGyroscopeMeanZ
-Standard deviation of the time-domain body angular velocity in the X, Y and Z directions:
 
 timeDomainBodyGyroscopeStandardDeviationX
 timeDomainBodyGyroscopeStandardDeviationY
@@ -80,10 +71,6 @@ timeDomainBodyGyroscopeJerkMeanY
 timeDomainBodyGyroscopeJerkMeanZ
 Standard deviation of the time-domain body angular velocity jerk (derivation of the angular velocity in time) in the X, Y and Z directions:
 
-timeDomainBodyGyroscopeJerkStandardDeviationX
-timeDomainBodyGyroscopeJerkStandardDeviationY
-timeDomainBodyGyroscopeJerkStandardDeviationZ
-Average and standard deviation of the time-domain magnitude of body acceleration:
 
 timeDomainBodyAccelerometerMagnitudeMean
 timeDomainBodyAccelerometerMagnitudeStandardDeviation
@@ -93,9 +80,6 @@ timeDomainGravityAccelerometerMagnitudeMean
 timeDomainGravityAccelerometerMagnitudeStandardDeviation
 Average and standard deviation of the time-domain magnitude of body acceleration jerk (derivation of the acceleration in time):
 
-timeDomainBodyAccelerometerJerkMagnitudeMean
-timeDomainBodyAccelerometerJerkMagnitudeStandardDeviation
-Average and standard deviation of the time-domain magnitude of body angular velocity:
 
 timeDomainBodyGyroscopeMagnitudeMean
 timeDomainBodyGyroscopeMagnitudeStandardDeviation
@@ -105,11 +89,6 @@ timeDomainBodyGyroscopeJerkMagnitudeMean
 timeDomainBodyGyroscopeJerkMagnitudeStandardDeviation
 Frequency-domain signals
 Average frequency-domain body acceleration in the X, Y and Z directions:
-
-frequencyDomainBodyAccelerometerMeanX
-frequencyDomainBodyAccelerometerMeanY
-frequencyDomainBodyAccelerometerMeanZ
-Standard deviation of the frequency-domain body acceleration in the X, Y and Z directions:
 
 frequencyDomainBodyAccelerometerStandardDeviationX
 frequencyDomainBodyAccelerometerStandardDeviationY
